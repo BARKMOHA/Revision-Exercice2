@@ -1,0 +1,2 @@
+
+Condole.WriteLine('Hello, world!')
